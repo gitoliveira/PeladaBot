@@ -1,0 +1,15 @@
+{
+  "name": "gruboleirosbot",
+  "version": "1.0.0",
+  "description": "Bot para confirmação da classica pelada Grubal",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Prado & Igor Lessa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-telegram-bot-api": "^0.21.1"
+  }
+}
